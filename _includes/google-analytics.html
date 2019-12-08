@@ -1,5 +1,15 @@
 <!-- Google Analytics -->
 {% if site.google-analytics %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google-analytics.id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.google-analytics.id }}');
+</script>
+<!--
 <script>
 var dnt = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
 if (dnt != "1" && dnt != "yes") {
@@ -10,5 +20,5 @@ if (dnt != "1" && dnt != "yes") {
 ga('create', '{{ site.google-analytics.id }}', 'auto');
 ga('send', 'pageview');
 }
-</script>
+</script>-->
 {% endif %}
