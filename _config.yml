@@ -1,13 +1,13 @@
 # Site settings
 title: Sungwook Son's Portfolio
-description: A blog about lorem ipsum dolor sit amet
+#description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: https://appma.kr
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Sungwook Son
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: I am a very hard worker, challenger and team player. Over the past, I improved substantially at managing multiple tasks and at allocating my time efficiently as I worked very hard to overcome different stages of challenges. I would like to continue to challenge myself, and I believe that my hard-working feature will help me fulfill my role successfully. I am also very well-rounded and have robust relationships with people I have worked with. I am very committed to my roles. 
 user_title: Software Developer
 email: sungwookson@gmail.com
 twitter_username: lorem_ipsum

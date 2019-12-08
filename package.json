@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Nathan Randecker",
+  "author": "Sungwook Son",
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.26.3",
