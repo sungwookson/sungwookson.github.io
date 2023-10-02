@@ -1,0 +1,15 @@
+version: '3'
+services:
+  doc:
+    image: jekyll/jekyll:3.8
+    volumes:
+      - .:/srv/jekyll
+    container_name: site
+    ports:
+      - "3080:4000"
+    stdin_open: true
+    environment:
+      JEKYLL_UID: 1001
+      JEKYLL_GID: 1001
+    tty: true
+    command: bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0"
