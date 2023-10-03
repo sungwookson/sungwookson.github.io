@@ -2,7 +2,7 @@
 title: 3D SLAM Reconstruction
 author: sungwook
 date: 2016-06-09 00:00:00 +0800
-categories: [Project]
+categories: [Project, UC San Diego]
 tags: [3D, SLAM]
 math: true
 mermaid: true
