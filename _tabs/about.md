@@ -51,12 +51,6 @@ GANBok: Create New Fasion Designs with Hanbok
 > More about project <https://about.appma.kr>
 {: .prompt-info }
 
-docker run -it \
-  --volume="$PWD:/srv/jekyll:Z" \
-  --publish 4000:4000 \
-  jekyll/jekyll \
-  jekyll serve --livereload
-
 Pulser
 : UCSD HC4H
 
