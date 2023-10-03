@@ -60,17 +60,17 @@ Pulser
 
 
 EMS Track -- Cruz Roja
-: UCSD HC4H
+: UCSD Global Ties
 
-> More about project <https://about.appma.kr>
+> More about [project](/posts/emstrack/)
 {: .prompt-info }
 
 
 
 Rescue Camera -- Cruz Roja
-: UCSD HC4H
+: Rescue Camera
 
-> More about project <https://about.appma.kr>
+> More about [project](/posts/rescue-camera/)
 {: .prompt-info }
 
 
@@ -78,15 +78,15 @@ Rescue Camera -- Cruz Roja
 3D SLAM Reconstrucion
 : Google Tango
 
-> More about project <https://about.appma.kr>
+> More about [project](/posts/3D-reconstruction/)
 {: .prompt-info }
 
 
 
 iOS App Development
-: Google Tango
+: iOS App Developments
 
-> More about project <https://about.appma.kr>
+> More about [project](/posts/ios-app-development/)
 {: .prompt-info }
 
 
