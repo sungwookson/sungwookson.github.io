@@ -26,7 +26,7 @@ Samsung Research -- AI Core
 : ML Research Intern (2020.06 ~ 2020.08)
 
 Global Ties (UCSD) -- Cruz Roja
-: Backend Developer
+: Backend Developer (2019.06 - 2020.10)
 
 ## Projects
 
