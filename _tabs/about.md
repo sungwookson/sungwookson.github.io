@@ -1,12 +1,22 @@
 ---
+layout: post
+permalink: /
+order: 0
+toc: true
+has_title: false
+has_meta: false
+has_tail: false
+---
+
+<!-- ---
 # the default layout is 'page'
+layout: page
 icon: fas fa-info-circle
-order: 4
+order: 0
 title: About Me
 pin: true
 toc: true
----
-
+--- -->
 
 ## Education
 Seoul National University
