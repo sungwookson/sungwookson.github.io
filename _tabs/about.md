@@ -78,7 +78,7 @@ Rescue Camera -- Cruz Roja
 3D SLAM Reconstrucion
 : Google Tango
 
-> More about [project](/posts/3D-reconstruction/)
+> More about [project](/posts/3d-reconstruction/)
 {: .prompt-info }
 
 
