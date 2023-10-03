@@ -33,14 +33,14 @@ Global Ties (UCSD) -- Cruz Roja
 MiCrowd: Vision-Based Deep Crowd Counting on MCU
 : Pple prediction
 
-> More about project [project](/posts/microwd/)
+> More about [project](/posts/microwd/)
 {: .prompt-info }
 
 
 EdgePass: Lightweight Distracted and Drowsiness Driver Detection System
 : Drowiness detection
 
-> More about project [project](/posts/edgepass/)
+> More about [project](/posts/edgepass/)
 {: .prompt-info }
 
 
@@ -48,7 +48,7 @@ EdgePass: Lightweight Distracted and Drowsiness Driver Detection System
 GANBok: Create New Fasion Designs with Hanbok
 : Image generation
 
-> More about project [project](/posts/ganbok/)
+> More about [project](/posts/ganbok/)
 {: .prompt-info }
 
 Pulser
