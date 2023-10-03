@@ -136,7 +136,7 @@ iOS App Development
 {: .prompt-tip } -->
 
 [snu]: https://www.snu.ac.kr
-[resume]: /assets/papers/CV_jinchaoli.pdf
+[resume]: https://docs.google.com/viewer?url=https://github.com/sungwookson/resume-public/releases/latest/download/resume.pdf
 [microwd]: /blog/microwd/
 [edgepass]: /blog/edgepass/
 [ganbok]: /blog/ganbok/
