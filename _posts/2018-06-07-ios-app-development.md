@@ -2,7 +2,7 @@
 title: iOS App Development
 author: sungwook
 date: 2018-06-07 00:00:00 +0800
-categories: [Project]
+categories: [Project, Personal]
 tags: [iOS, Xcode, objc]
 math: true
 mermaid: true

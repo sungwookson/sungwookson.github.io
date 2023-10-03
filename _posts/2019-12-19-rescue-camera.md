@@ -2,7 +2,7 @@
 title: Rescue Camera Cruz Roja
 author: sungwook
 date: 2019-12-19 00:00:00 +0800
-categories: [Project]
+categories: [Project, UCSD]
 tags: [3D, RPi, Python, Server]
 math: true
 mermaid: true
