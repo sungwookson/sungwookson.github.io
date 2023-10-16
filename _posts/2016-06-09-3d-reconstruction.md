@@ -16,4 +16,21 @@ image:
 
 The goal of this project is to implement technological advancements in current field of art and archeology for further visualization. This visualization not only allows artists and archeologists to detail their findings, but also allows them to build a highly scaled model with much deeper depth and detail. Even today, many of the artists and archeologists are limited from many of these modern resources. These artists and archeologists use an out-dated method of drawing a 3D model on paper with pencil. This use of long established method, when compared to the use of modern technology, falls behind in many qualities; as the size of mapping gets larger, visualization through the use of traditional method gets obscure. Thus, with bigger findings, this 3D reconstruction provides better accuracy and efficiency. This project aims to provide artists and archeologists with a mobile system that can reconstruct an underground environment, with real-time partial or full feedback.
 
-## 
+## Demo
+
+<babylon model="/assets/img/posts/slam/RTAB/csebuilding.gltf"></babylon>
+
+
+
+<!-- CODE -->
+
+
+<script src="https://cdn.babylonjs.com/babylon.js"></script>
+<script src="https://cdn.babylonjs.com/materialsLibrary/babylonjs.materials.min.js"></script>
+<script src="https://cdn.babylonjs.com/loaders/babylonjs.loaders.min.js"></script>
+<script src="https://cdn.babylonjs.com/postProcessesLibrary/babylonjs.postProcess.min.js"></script>
+<script src="https://cdn.babylonjs.com/proceduralTexturesLibrary/babylonjs.proceduralTextures.min.js"></script>
+<script src="https://cdn.babylonjs.com/serializers/babylonjs.serializers.min.js"></script>
+<script src="https://cdn.babylonjs.com/gui/babylon.gui.min.js"></script>
+<script src="https://cdn.babylonjs.com/inspector/babylon.inspector.bundle.js"></script>
+<script src="https://cdn.babylonjs.com/viewer/babylon.viewer.js"></script>
